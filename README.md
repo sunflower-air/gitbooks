@@ -1,2 +1,3 @@
-# gitbooks
-my gitbook
+# 简介
+
+这是一篇关于如何关于hexo博客的具体讲解
